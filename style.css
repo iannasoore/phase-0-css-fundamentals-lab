@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+img{
+  text-align: center;
+}
+nav{
+  padding: 20px;
+}
+p{
+  width: 800px;
+}
+#id{
+  text-align: horizontal;
+}
+div{
+  display: flex;
+  text-align: center;
+  font-size: 100%;
+  width: 50%;
+}
