@@ -24,3 +24,9 @@ div{
   font-size: 100%;
   width: 50%;
 }
+#featured-property{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
